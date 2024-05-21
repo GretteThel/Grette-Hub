@@ -1,5 +1,5 @@
 # Grette-Hub
-Hello, World! This is my profile. 
+Hello, World! Welcome to my page. 
 
 
 <h1 align="center">Hi 👋, I'm Grette</h1>
